@@ -53,27 +53,12 @@ const Footer = () => {
             <SocialMedia
               icon={<SiGithub />}
               name="github"
-              link="https://github.com/NaseemKhan005/"
+              link="https://github.com/prateek-1110/"
             />
             <SocialMedia
               icon={<SiLinkedin />}
               name="linkedin"
-              link="https://www.linkedin.com/in/naseem-khan-275275258/"
-            />
-            <SocialMedia
-              icon={<TbBrandFiverr />}
-              name="fiverr"
-              link="https://www.fiverr.com/naseemsafay?up_rollout=true"
-            />
-            <SocialMedia
-              icon={<SiUpwork />}
-              name="upWork"
-              link="https://www.upwork.com/freelancers/~01a320b86f9044dd91"
-            />
-            <SocialMedia
-              icon={<SiFreelancer />}
-              name="freelancer"
-              link="https://www.freelancer.com/u/naseemsaffy"
+              link="https://www.linkedin.com/in/irreplaceable1110/"
             />
           </div>
         </div>
