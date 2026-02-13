@@ -58,7 +58,7 @@ const Footer = () => {
             <SocialMedia
               icon={<SiLinkedin />}
               name="linkedin"
-              link="https://www.linkedin.com/in/irreplaceable1110/"
+              link="https://www.linkedin.com/in/prateek1110/"
             />
           </div>
         </div>
